@@ -1,8 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h3>马旭东master主分支进行</h3>
-    
+    <h3>主分支</h3>
   </div>
 </template>
 
